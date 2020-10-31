@@ -4,6 +4,14 @@
 
 I decided to do this in Typescript to work on my typescript skills. You should look into the docs for Typescript if you don't understand.
 
+## Run this example
+
+`npm install | yarn`
+<br />
+After you install the dependencies
+<br />
+`npm run start | yarn start`
+
 ### RESTful API Service
 
 Mailinator is a web service for checking email sent to public, temporary email addresses. There are many similar services, but Mailinator was one of the first.
